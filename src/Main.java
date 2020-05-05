@@ -18,14 +18,14 @@ public class Main {
 
         System.out.println("Round 1 PvP");
 
-        System.out.println("-------------");
+        System.out.println("--------------");
         System.out.println(player1.familyname + " with HP " + player1.HealthPoints + ", and AP "+
                 player1.AttackPower + " and his DP " + player1.DefensePower);
         System.out.println(player1.familyname + " use buff Demage");
         player1.buffDemage();
         System.out.println("Status updated: "+player1.familyname + " with HP " + player1.HealthPoints + ", and AP "+
                 player1.AttackPower + " and his DP " + player1.DefensePower);
-        System.out.println("------------_-");
+        System.out.println("--------------");
 
 
         System.out.println("-------------");
