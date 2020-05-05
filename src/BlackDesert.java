@@ -7,7 +7,6 @@ public class BlackDesert {
         AttackPower+=17;
         DefensePower+=-15;
         System.out.println("Watahi wa more settrongg!!! Omaewa mooo Shindeiru");
-
     }
 
     void buffEvasion(){

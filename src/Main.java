@@ -25,7 +25,7 @@ public class Main {
         player1.buffDemage();
         System.out.println("Status updated: "+player1.familyname + " with HP " + player1.HealthPoints + ", and AP "+
                 player1.AttackPower + " and his DP " + player1.DefensePower);
-        System.out.println("-------------");
+        System.out.println("------------_-");
 
 
         System.out.println("-------------");
